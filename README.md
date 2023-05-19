@@ -137,10 +137,11 @@ xnor(xnorgate,a,b);
 endmodule
 ```
 ## RTL Schematic:
-![output](exp1.jpg)
+![Screenshot 2023-03-31 144021](https://github.com/R-Udayakumar/Digital-Electronics-Ex1/assets/118708024/7a8c244b-01bd-4e23-9947-ee99f30571ac)
 
 ## Timing Diagram:
-![output](exp1(1)(1).jpg)
+![exp1](https://github.com/R-Udayakumar/Digital-Electronics-Ex1/assets/118708024/9e107c63-abdb-464d-b360-54b73436f2d5)
+
 
 
 
